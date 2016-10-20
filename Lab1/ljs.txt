@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 李佳思大好人！Oh Yeah！LJS te liu bi!
+=======
+李佳思大好人！Oh Yeah！
+>>>>>>> c4

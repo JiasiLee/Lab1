@@ -7,7 +7,11 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 //李佳思大好人！
+<<<<<<< HEAD
 //LJS Shuai!
+=======
+//LJS 特别牛逼！
+>>>>>>> c4
 
 public class Main
 {
